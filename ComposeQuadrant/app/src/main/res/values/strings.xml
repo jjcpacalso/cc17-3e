@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Compose Quadrant</string>
+    <string-array name="quad1">
+        <item>Text composable</item>
+        <item>Displays text and follows the recommended Material Design guidelines.</item>
+        <item>FFEADDFF</item>
+    </string-array>
+    <string-array name="quad2">
+        <item>Image composable</item>
+        <item>Creates a composable that lays out and draws a given Painter class object.</item>
+        <item>FFD0BCFF</item>
+    </string-array>
+    <string-array name="quad3">
+        <item>Row composable</item>
+        <item>A layout composable that places its children in a horizontal sequence.</item>
+        <item>FFB69DF8</item>
+    </string-array>
+    <string-array name="quad4">
+        <item>Column composable</item>
+        <item>A layout composable that places its children in a vertical sequence.</item>
+        <item>FFF6EDFF</item>
+    </string-array>
+</resources>
