@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1069930725950",
+    "firebase_url": "https://employee-application-78f93-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "employee-application-78f93",
+    "storage_bucket": "employee-application-78f93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069930725950:android:ce3d2cdc97da3aec55c76f",
+        "android_client_info": {
+          "package_name": "com.example.employeeapplicationfirebaserealtimedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMH0c_BbrWA3s4VHaO_qy3DUB0XpoElmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

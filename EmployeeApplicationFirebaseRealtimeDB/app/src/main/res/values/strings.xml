@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Employee Application Firebase Realtime DB</string>
+    <string name="add">Add</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="save_record">Save record</string>
+</resources>
